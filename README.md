@@ -1,0 +1,1 @@
+Just trying out Android Best Practices for ContentProvider, SQLite access, CursorLoader etc.

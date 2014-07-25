@@ -1,0 +1,11 @@
+target
+overlays
+gen
+out
+*~
+.idea
+*.swp
+*.ipr
+*.iml
+*.iws
+local.properties
